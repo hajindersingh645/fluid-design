@@ -1,0 +1,6 @@
+```
+# target / context = result
+> for bootstrap context will be 14px always
+> target / 14px = result
+
+```
